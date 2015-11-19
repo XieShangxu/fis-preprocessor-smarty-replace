@@ -1,0 +1,22 @@
+{
+  "name": "fis-preprocessor-smarty-replace",
+  "version": "1.0.0",
+  "description": "fis plugin to replace smarty include tag with inline link tag for fis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XieShangxu/fis-preprocessor-smarty-replace.git"
+  },
+  "keywords": [
+    "fis"
+  ],
+  "author": "DanielXie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XieShangxu/fis-preprocessor-smarty-replace/issues"
+  },
+  "homepage": "https://github.com/XieShangxu/fis-preprocessor-smarty-replace#readme"
+}

@@ -1,6 +1,6 @@
 {
   "name": "fis-preprocessor-smarty-replace",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "fis plugin to replace smarty include tag with inline link tag for fis",
   "main": "index.js",
   "scripts": {

@@ -17,7 +17,9 @@ How to use:
 ```javascript
 fis.match('*.html', {
 	preprocessor: fis.plugin('smarty-replace', {
-		rootDir: 'apps/templates/'
+		preTag: '{',
+		afterTag: '}',
+		rootDir: '../'
 	})
 });
 ```
